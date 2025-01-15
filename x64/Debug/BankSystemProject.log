@@ -1,0 +1,34 @@
+﻿  Admin.cpp
+  AdminManager.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'AdminManager.cpp')
+  
+  BankSystemProject.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'BankSystemProject.cpp')
+  
+  ClientManager.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'ClientManager.cpp')
+  
+  DataSourceInterface.cpp
+  Employee.cpp
+  EmployeeManager.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'EmployeeManager.cpp')
+  
+  FileManager.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'FileManager.cpp')
+  
+  FilesHelper.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'FilesHelper.cpp')
+  
+  Parser.cpp
+  Screens.cpp
+C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\FilesHelper.h(11,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Screens.cpp')
+  
+  Generating Code...
+  BankSystemProject.vcxproj -> C:\Users\Acer\Desktop\Course Projects && Assignments\BankSystemProject\x64\Debug\BankSystemProject.exe
